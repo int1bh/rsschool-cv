@@ -5,7 +5,6 @@ body, h1, p {
 .container {
     margin: 0 auto;
     max-width: 1024px;
-    /* height: 800px; */
     background-image: url(img/background.jpg);
     background-repeat: no-repeat;
     background-size: cover;   
@@ -13,7 +12,6 @@ body, h1, p {
 
 header, main, footer {
     background: rgb(230 218 228 / 37%);
-    /* padding-left: 30px; */
     padding: 0px 30px 0px 30px;
 }
 
